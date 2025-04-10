@@ -26,7 +26,7 @@ This web application serves as a Google Books API-powered search engine, origina
 
 ```bash
 # Clone this repository to your machine
-git clone https://github.com/your-username/mern-book-search-engine.git
+git clone https://github.com/Deetoe/BookEngine-Chall18.git
 
 # Move into the app's directory
 cd mern-book-search-engine
